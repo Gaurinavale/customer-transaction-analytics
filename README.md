@@ -110,7 +110,7 @@ cd customer-transaction-analytics
 Run the dashboard:
 
 ```bash
-streamlit run app/streamlit_app.py
+https://customer-transaction-analytics-k6mhyjhdrjftaj3oank34z.streamlit.app/
 ```
 
 ## 📓 Notebook
